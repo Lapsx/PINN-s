@@ -32,9 +32,7 @@ O mapa de fase extraído pela PINN parametrizada ilustrando a transição do pol
 ![Phase Map v31](images/phase_map_v31.png)
 
 ### Perfis de Densidade (Solução Contínua)
-Graças à diferenciabilidade da rede, as predições de densidade do polímero ao redor da esfera são curvas perfeitamente contínuas, sem os artefatos típicos de discretização espacial:
-
-![Perfil de Densidade Contínuo](images/sp_1_31_40.png)
+Graças à diferenciabilidade da rede, as predições de densidade do polímero ao redor da esfera são curvas perfeitamente contínuas, sem os artefatos típicos de discretização espacial. *(Imagem do perfil a ser adicionada)*
 
 ---
 *Física Estatística de Polímeros informada por Machine Learning.*
